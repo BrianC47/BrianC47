@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a Help Desk Technician and veteran currently building my skills in cybersecurity and software development. I'm learning as much as I can across networking, security, and coding, and I focus on hands-on practice so I can turn what I learn into real, working skills.
+I'm a Veteran currently building my skills in cybersecurity and software development. I'm learning as much as I can across networking, security, and coding, and I focus on hands-on practice so I can turn what I learn into real, working skills.
 
 ---
 
@@ -40,7 +40,7 @@ I'm a Help Desk Technician and veteran currently building my skills in cybersecu
 |:-:|---|---|:-:|
 | 1 | Networking Concepts | CompTIA A+ (Core 1) | ✅ Complete |
 | 2 | Computer & Security Concepts | CompTIA A+ (Core 2) | ⏳ In Progress |
-| 3 | Security I | CompTIA Network+ (N10-009) | ⏳ In Progress |
+| 3 | Security I | CompTIA Network+ (N10-009) |  ✅ Complete  |
 | 4 | Security II | CompTIA Security+ (SY0-701) | ⏳ In Progress |
 | 5 | Security III | CompTIA CySA+ (CS0-003) | ⏳ In Progress |
 
@@ -72,7 +72,7 @@ I'm a Help Desk Technician and veteran currently building my skills in cybersecu
 
 Feel free to reach out about IT, cybersecurity, or anything you're learning too. The best ways to reach me are:
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email:** [brianxu47@gmail.com](mailto:brianxu47@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/brian-c-264516286](https://www.linkedin.com/in/brian-c-264516286/)
 
 ---
