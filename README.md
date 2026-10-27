@@ -1,111 +1,91 @@
 <div align="center">
 
-<img src="https://github.com/BrianC47.png" width="120" style="border-radius:50%;" alt="Brian Cook"/>
+<img src="https://github.com/BrianC47.png" width="120" style="border-radius:50%;" alt="Brian Cook" />
 
-# Hi there! I'm Brian Cook
+# Hi, I'm Brian Cook 👋
 
-*Help Desk Technician*
+**Help Desk Technician · Veteran · Aspiring Cybersecurity Professional**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0969da?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-c-264516286/)
-[![GitHub](https://img.shields.io/badge/GitHub-@BrianC47-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianC47)
-![🎖️ Veteran](https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20Veteran-0969da?style=for-the-badge)
+<a href="https://www.linkedin.com/in/brian-c-264516286/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/BrianC47"><img src="https://img.shields.io/badge/GitHub-BrianC47-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Learning+to+Code;Always+learning+something+new" alt="Typing animation" />
 
 </div>
 
 ---
 
-## 💼 Professional Summary
+## 👋 About Me
 
-_Add your professional summary on the left._
-
----
-
-## 🛠️ Technical Skills & Tooling
-
-**🖥️ CompTIA A+ Essentials:**
-`Hardware & Operating Systems` • `Networking Settings (IPv4)` • `Command Line Diagnostics (CLI)`
-
-**🌐 CompTIA Network+ Infrastructure:**
-`OSI Layer Architecture` • `Network Hardening & ACLs`
-
-**🛡️ CompTIA Security+ Defense:**
-`Active Directory & IAM`
+I'm a Help Desk Technician and veteran currently building my skills in cybersecurity and software development. I'm learning as much as I can across networking, security, and coding, and I focus on hands-on practice so I can turn what I learn into real, working skills.
 
 ---
 
-## 📚 CWP Course Milestones & Practice Labs
+## 🎯 Currently Learning
 
-<details>
-<summary>🌐 Course 1: Networking Concepts (A+ Core 1)</summary>
+| Area | Focus |
+|---|---|
+| 🌐 Networking | IP addressing, subnetting, VLANs, routing, and network hardening |
+| 🛡️ Cybersecurity | Threat analysis, Active Directory & IAM, vulnerability management, SIEM monitoring |
+| 💻 Coding | Programming fundamentals, scripting, and automation |
 
-> Foundational IP networking, client-side virtualization, wireless security, and host connectivity.
+---
 
-| Lab # | Hands-On Module Title | Status |
-|---|---|---|
-| Lab 1.1 | Configure IP Addresses & Subnet Schemes | ✅ Complete |
-| Lab 1.2 | Configuring Networking Settings on Windows Devices | ✅ Complete |
-| Lab 1.3 | Securing SOHO Networks & Wireless Security Implementation | ✅ Complete |
-| Lab 1.4 | Provisioning Hypervisors & Client-Side VM Deployment | ✅ Complete |
-| Lab 1.5 | Configuring Remote Access Protocols (RDP, SSH) | ✅ Complete |
+## 🗺️ Learning Path
 
-</details>
+| # | Course | Certification Track | Status |
+|:-:|---|---|:-:|
+| 1 | Networking Concepts | CompTIA A+ (Core 1) | ✅ Complete |
+| 2 | Computer & Security Concepts | CompTIA A+ (Core 2) | ⏳ In Progress |
+| 3 | Security I | CompTIA Network+ (N10-009) | ⏳ In Progress |
+| 4 | Security II | CompTIA Security+ (SY0-701) | ⏳ In Progress |
+| 5 | Security III | CompTIA CySA+ (CS0-003) | ⏳ In Progress |
 
-<details>
-<summary>🖥️ Course 2: Computer & Security Concepts (A+ Core 2)</summary>
+---
 
-> OS management (Windows/Linux/Mac), local security controls, software troubleshooting, and scripting.
+## 🛠️ Skills & Tools
 
-| Lab # | Hands-On Module Title | Status |
-|---|---|---|
-| Lab 2.1 | Managing Windows Devices via GUI & Command Line Interface | ⏳ In Progress |
-| Lab 2.2 | Managing Linux & macOS Operating Systems | ⏳ In Progress |
-| Lab 2.3 | Authentication, Password Policies, & Local Account Security | ⏳ In Progress |
-| Lab 2.4 | Malware Removal & Threat Remediation Best Practices | ⏳ In Progress |
-| Lab 2.5 | Data Backup Strategies & System Disaster Recovery | ⏳ In Progress |
+| Domain | Topics |
+|---|---|
+| Hardware & Systems | Operating systems, hardware troubleshooting, command-line diagnostics |
+| Networking | IPv4 configuration, OSI model, network hardening and ACLs |
+| Security | Active Directory & IAM, authentication and password policies, threat vectors |
 
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github&perline=5" alt="Tech stack" />
+</p>
 
-<details>
-<summary>🌐 Course 3: Security I (Network+ N10-009)</summary>
+---
 
-> Enterprise routing & switching, VLANs, software-defined networking, network hardening, and SNMP/Syslog monitoring.
+## 🎉 Fun Facts
 
-| Lab # | Hands-On Module Title | Status |
-|---|---|---|
-| Lab 3.1 | OSI Model Encapsulation & Network Appliance Functionality | ⏳ In Progress |
-| Lab 3.2 | IPv4 Custom Subnetting, VLSM, & Network Services (DHCP/DNS) | ⏳ In Progress |
-| Lab 3.3 | VLAN Configuration, 802.1Q Trunking, & STP | ⏳ In Progress |
-| Lab 3.4 | Routing Concepts (Static, OSPF, BGP) & Cloud Virtual Networking | ⏳ In Progress |
-| Lab 3.5 | Network Hardening, Multi-Layered Authentication, & Wireshark Diagnostics | ⏳ In Progress |
+- 🎮 I love playing video games
+- 🏋️ I love hitting the gym
+- 📚 I'm always eager to learn something new
 
-</details>
+---
 
-<details>
-<summary>🛡️ Course 4: Security II (Security+ SY0-701)</summary>
+## 📫 Let's Connect
 
-> Enterprise threat vectors, vulnerability assessment, Windows/Linux server hardening, PKI, and SecOps automation.
+Feel free to reach out about IT, cybersecurity, or anything you're learning too. The best ways to reach me are:
 
-| Lab # | Hands-On Module Title | Status |
-|---|---|---|
-| Lab 4.1 | Threat Vectors, Open Port Audits, & Application Vulnerability Scanning | ⏳ In Progress |
-| Lab 4.2 | Analyzing Malicious Activity (Brute Force, Command Injection, SYN Flood) | ⏳ In Progress |
-| Lab 4.3 | Windows & Linux Server Hardening & Active Directory IAM Provisioning | ⏳ In Progress |
-| Lab 4.4 | Cryptographic Solutions, CSR Approvals, & Digital Signatures | ⏳ In Progress |
-| Lab 4.5 | SecOps Automation Scripting & L2TP/IPsec VPN Server Deployment | ⏳ In Progress |
+- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/brian-c-264516286](https://www.linkedin.com/in/brian-c-264516286/)
 
-</details>
+---
 
-<details>
-<summary>🔍 Course 5: Security III (CySA+ CS0-003)</summary>
+<div align="center">
 
-> Security Operations Center (SOC) analytics, threat hunting, Splunk SIEM log collection, CVSS scoring, and forensics.
+### 📊 GitHub Stats
 
-| Lab # | Hands-On Module Title | Status |
-|---|---|---|
-| Lab 5.1 | Threat Intelligence Hunting, IOC Sharing, & MITRE ATT&CK Mapping | ⏳ In Progress |
-| Lab 5.2 | Vulnerability Scanning, CVSS Calculator Risk Scoring, & Patch Management | ⏳ In Progress |
-| Lab 5.3 | Splunk SIEM Log Collection, Anomaly Detection, & Vulnerability Reporting | ⏳ In Progress |
-| Lab 5.4 | Automating Windows/Linux Log Telemetry Monitoring via PowerShell Scripts | ⏳ In Progress |
-| Lab 5.5 | Incident Response Playbook Reviews, Splunk Alerting, & Forensic Imaging | ⏳ In Progress |
+<img src="https://github-readme-stats.vercel.app/api?username=BrianC47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=BrianC47&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 
-</details>
+<br />
+
+Thanks for stopping by! 👋
+
+</div>
